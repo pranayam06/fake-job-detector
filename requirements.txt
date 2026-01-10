@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-groq
+tavily-python
+python-dotenv
+python-whois
+requests
+beautifulsoup4
